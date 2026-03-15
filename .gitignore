@@ -1,0 +1,7 @@
+Consumer_Complaints.csv
+venv/
+.venv/
+.DS_Store
+tempCodeRunnerFile.py
+consumer_complaints.csv
+
